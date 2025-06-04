@@ -1,2 +1,3 @@
-# booked
-a template of vue
+## 🐛 fix
+- 图标选择器组件使用 `onClickOutside` 未排除下拉弹出框元素导致无法输入搜索。
+
